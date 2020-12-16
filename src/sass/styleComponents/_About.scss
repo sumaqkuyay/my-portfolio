@@ -1,0 +1,54 @@
+.about {
+  display: flex;
+  margin-top: 2rem;
+  height: calc(100vh - 130px);
+  &-title {
+    width: 45%;
+    padding-top: 16.5rem;
+    // padding-left: 6rem;
+    text-align: center;
+    &-about {
+      // margin-top: 4rem;
+      font-size: 100px;
+      position: relative;
+    }
+    &-me {
+      font-size: 100px;
+    }
+    &-line {
+      position: absolute;
+      right: 85rem;
+      bottom: -26rem;
+      width: 10rem;
+      height: 0.5rem;
+      background: #ffffff;
+    }
+  }
+  &-description {
+    margin-top: 9rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 47rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    &-subtitle {
+    }
+    &-skills {
+      display: grid;
+      width: 38.5rem;
+      height: 17rem;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+      align-items: center;
+      text-align: center;
+      margin-top: 2rem;
+      margin-bottom: 2.5rem;
+      &-btnCv {
+        width: 220px;
+        height: 51px;
+        background: #7c161ef3;
+      }
+    }
+  }
+}

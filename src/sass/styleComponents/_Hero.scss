@@ -1,0 +1,49 @@
+.hero {
+  display: flex;
+  // align-items: center;
+  height: calc(100vh - 130px);
+  padding-top: 2rem;
+  &-welcome {
+    padding-top: 10rem;
+    padding-left: 6rem;
+    width: 100%;
+    &-hi {
+      font-size: 30px;
+      margin: 14px 0 26px 0;
+    }
+    &-name {
+      margin-bottom: 34px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 100px;
+      line-height: 76px;
+    }
+    &-fe {
+      font-family: Roboto;
+      font-size: 30px;
+      display: flex;
+      align-items: center;
+      letter-spacing: 2pt;
+      &-span {
+        width: 280px;
+        height: 0.5rem;
+        background: #c4c4c4;
+        margin-right: 1rem;
+      }
+    }
+    &-btn {
+      margin-top: 3rem;
+      width: 238px;
+      height: 51px;
+      background: #f12020;
+    }
+  }
+  &-image {
+    &-photo {
+      margin-top: 4rem;
+      margin-left: 2rem;
+      width: 440px;
+    }
+  }
+}

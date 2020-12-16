@@ -1,0 +1,25 @@
+.contact {
+  margin-top: 2rem;
+  // height: calc(100vh - 130px);
+  &-title {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 5rem;
+  }
+  .sideBar {
+    height: 10rem;
+    .ul {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      width: 40rem;
+      margin: auto;
+      justify-items: center;
+      &-list {
+        &:hover {
+          // width: 50rem;
+          color: yellowgreen;
+        }
+      }
+    }
+  }
+}
