@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2c2af54.chunk.css",
+    "main.js": "/static/js/main.f3367c92.chunk.js",
+    "main.js.map": "/static/js/main.f3367c92.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8aaa3aa5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8aaa3aa5.js.map",
+    "static/js/2.3ad6fc75.chunk.js": "/static/js/2.3ad6fc75.chunk.js",
+    "static/js/2.3ad6fc75.chunk.js.map": "/static/js/2.3ad6fc75.chunk.js.map",
+    "static/js/3.60a2c6ed.chunk.js": "/static/js/3.60a2c6ed.chunk.js",
+    "static/js/3.60a2c6ed.chunk.js.map": "/static/js/3.60a2c6ed.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e2c2af54.chunk.css.map": "/static/css/main.e2c2af54.chunk.css.map",
+    "static/js/2.3ad6fc75.chunk.js.LICENSE.txt": "/static/js/2.3ad6fc75.chunk.js.LICENSE.txt",
+    "static/media/Maya-Yanbal.fbc46e3c.png": "/static/media/Maya-Yanbal.fbc46e3c.png",
+    "static/media/MikuyBurger.0513ff8b.png": "/static/media/MikuyBurger.0513ff8b.png",
+    "static/media/Temis.28f3df43.png": "/static/media/Temis.28f3df43.png",
+    "static/media/YachayWasiPerú.364866f1.png": "/static/media/YachayWasiPerú.364866f1.png",
+    "static/media/Yanapay.0036ad3d.png": "/static/media/Yanapay.0036ad3d.png",
+    "static/media/css.e9a83a75.svg": "/static/media/css.e9a83a75.svg",
+    "static/media/dataLovers.54c4e6b1.png": "/static/media/dataLovers.54c4e6b1.png",
+    "static/media/firebase.18ae0d3c.svg": "/static/media/firebase.18ae0d3c.svg",
+    "static/media/git.371f05e8.svg": "/static/media/git.371f05e8.svg",
+    "static/media/github.376dfa8f.svg": "/static/media/github.376dfa8f.svg",
+    "static/media/html.3d4feda7.svg": "/static/media/html.3d4feda7.svg",
+    "static/media/javascript.e6ae9ed3.svg": "/static/media/javascript.e6ae9ed3.svg",
+    "static/media/linkedin.ad593bb9.svg": "/static/media/linkedin.ad593bb9.svg",
+    "static/media/nodejs.8221f029.svg": "/static/media/nodejs.8221f029.svg",
+    "static/media/photo-sabi.0ae7533a.jpg": "/static/media/photo-sabi.0ae7533a.jpg",
+    "static/media/react.4761085c.svg": "/static/media/react.4761085c.svg",
+    "static/media/sass.20fa735f.svg": "/static/media/sass.20fa735f.svg",
+    "static/media/twitter.7c40eeb3.svg": "/static/media/twitter.7c40eeb3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aaa3aa5.js",
+    "static/js/2.3ad6fc75.chunk.js",
+    "static/css/main.e2c2af54.chunk.css",
+    "static/js/main.f3367c92.chunk.js"
+  ]
+}
